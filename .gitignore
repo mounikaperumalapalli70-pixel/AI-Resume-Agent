@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 venv/
 .env
 __pycache__/
+=======
+venv/
+.env
+__pycache__/
+>>>>>>> 2793e364ca7f9ef534136ff4b28515f14bb1e0d8
 resumes/
