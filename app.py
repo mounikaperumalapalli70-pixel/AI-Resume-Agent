@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from flask import Flask, render_template, request
 from ai_agent import generate_resume
 
@@ -38,9 +37,9 @@ def generate():
 
 
 if __name__ == "__main__":
-=======
-from flask import Flask, render_template, request
-from ai_agent import generate_resume
+
+  from flask import Flask, render_template, request
+  from ai_agent import generate_resume
 
 app = Flask(__name__)
 
@@ -78,5 +77,5 @@ def generate():
 
 
 if __name__ == "__main__":
->>>>>>> 2793e364ca7f9ef534136ff4b28515f14bb1e0d8
+
     app.run(debug=True)
